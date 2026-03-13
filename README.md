@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Remus7
-- 👀 I’m interested in rust programming, such as for embedded systems
-- 🌱 I’m currently learning in the 11th grade in a Romanian high school
+- 👀 I’m interested in Biotechnologies, such as engineering applications for neuroscience
+- 🌱 I’m currently a student at the Polytechnic University of Bucharest
 - 📫 You can reach me at remus.rughinis.007@gmail.com
 
 <!---
